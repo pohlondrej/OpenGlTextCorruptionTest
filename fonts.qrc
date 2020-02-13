@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Roboto-Medium.ttf</file>
+    </qresource>
+</RCC>
